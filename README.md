@@ -8,8 +8,16 @@ This repository is separated in two directories:
 
 ## Dataset analysis
 
-
+This directory contains four files:
+- The `assessments.csv` which contains the suspicious literature metadata such as DOI and manually extracted tortured sentences.
+- The `dataset.ipynb` IPython notebook exlaining the whole process to build and explore the dataset used for tortured sentences extraction.
+- The `dataset_metadata.csv` which contains the metadata (DOI and tortured sentences) of the dataset used for tortured sentences extraction.
+- The `dependencies.txt` listing the used Python version and associated libraries.
 
 ## Supervised learning
 
+TODO
+
 ## More information
+
+We thank Guillaume Cabanc, Cyril Labbé and Alexander Magazinov for their precious work on the depollution of the scientific litterature through the [Problematic Paper Screener](https://www.irit.fr/~Guillaume.Cabanac/problematic-paper-screener).
