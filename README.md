@@ -1,5 +1,9 @@
 # Machine Learning for tortured sentences exctraction
 
+Author: Alexandre Clausse.
+
+## Presentation
+
 In this repository, we propose a first machine learning approach to extract tortured sentences from suspicious scientific literature.
 
 This repository is separated in two directories:
