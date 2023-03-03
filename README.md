@@ -20,6 +20,6 @@ TODO
 
 ## More information
 
-The papers contents used in our dataset cannot be accessible through ths repository since some of them are not frrely accessible.
+The papers contents used in our dataset cannot be accessible through this repository since some of them are not frrely accessible.
 
 We thank Guillaume Cabanc, Cyril Labbé and Alexander Magazinov for their precious work on the depollution of the scientific litterature through the [Problematic Paper Screener](https://www.irit.fr/~Guillaume.Cabanac/problematic-paper-screener).
