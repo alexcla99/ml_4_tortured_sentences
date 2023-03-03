@@ -20,11 +20,11 @@ This directory contains eight files:
 - The `cnn.zip` archive containing the CNN model with its best weights and its results for tortured sentences extraction.
 - The `freeze.txt` listing the used Python version and associated libraries.
 - The `lstm.zip` archive containing the LSTM (RNN) model with its best weights and its results for tortured sentences extraction.
-- The `models.py` containing the models implementations.
+- The `models.py` containing the models implementations with Python.
 - The `rcnn.zip` archive containing the RCNN model with its best weights and its results for tortured sentences extraction.
-- The `run_train.sh` shell script to run the models training.
+- The `run_train.sh` Shell script to run the models training.
 - The `supervised_learning.ipynb` IPython notebook explaining the whole process to build the labilsed dataset and display the obtained results.
-- The `train_models.py` containing the code to train the implemented models.
+- The `train_models.py` containing the Python code to train the implemented models.
 
 ## More information
 
