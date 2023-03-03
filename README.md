@@ -1,6 +1,6 @@
 # Machine Learning for tortured sentences exctraction
 
-Author: Alexandre Clausse.
+Author: [Alexandre Clausse](mailto:alex0clausse[AT]icloud[DOT]com).
 
 ## Summary of the work presented in this repository
 
