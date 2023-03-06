@@ -1,4 +1,4 @@
-# Machine Learning for tortured sentences exctraction
+# Machine Learning for tortured sentences extraction
 
 Author: [Alexandre Clausse](mailto:alex0clausse[AT]icloud[DOT]com).
 
